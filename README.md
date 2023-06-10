@@ -8,3 +8,12 @@ A simple example using Windows.UI.Xaml.
 ```ps1
 dotnet run
 ```
+
+## Publish
+```ps1
+dotnet publish
+```
+
+## Packaging
+Use the MSIX Packaging tool for packaging.
+

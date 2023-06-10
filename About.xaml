@@ -9,6 +9,6 @@
 
     <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
         <TextBlock Text="© 2023 Hikari" Margin="0, 8, 0, 0" />
-        <HyperlinkButton Content="リポジトリ" NavigateUri="https://github.com/himeyama/winui-example02" Margin="0, 8, 0, 0" />
+        <HyperlinkButton x:Uid="Repository" Content="Repository" NavigateUri="https://github.com/himeyama/winui-example02" Margin="0, 8, 0, 0" />
     </StackPanel>
 </Page>

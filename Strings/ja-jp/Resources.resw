@@ -73,4 +73,7 @@
   <data name="About.Text" xml:space="preserve">
     <value>このソフトウェアについて</value>
   </data>
+  <data name="Repository.Content" xml:space="preserve">
+    <value>リポジトリ</value>
+  </data>
 </root>
